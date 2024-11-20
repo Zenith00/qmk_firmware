@@ -32,6 +32,6 @@
         "--header-insertion=never"
     ],
     "forcedInclude": [
-        "${workspaceFolder}/keyboards/sofle/keymaps/.h"
+        "${workspaceFolder}/keyboards/sofle/keymaps/Zenith00/config.h"
     ]
 }
